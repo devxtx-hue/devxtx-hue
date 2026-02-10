@@ -1,4 +1,4 @@
-# Привет, я Nowotx 👋
+# Привет, я Nowotx
 
 ## Социальные сети
 [![Телеграм](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Nowotx)
