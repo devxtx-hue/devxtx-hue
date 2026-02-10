@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привет, я Nowotx 👋
 
-<!--
-**devxtx-hue/devxtx-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Стастиска
+![Статистика](https://github-readme-stats.vercel.app/api?username=devxtx-hue&show_icons=true&theme=radical)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=devxtx-hue&layout=compact&theme=radical)
 
-Here are some ideas to get you started:
+## Социальные сети
+[![Телеграм](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Nowotx)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tux@xyecoc.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Достижения](https://github-profile-trophy.vercel.app/?username=devxtx-hue&theme=radical&no-frame=true)
+
+![Активность](https://github-readme-activity-graph.vercel.app/graph?username=devxtx-hue&theme=radical)
